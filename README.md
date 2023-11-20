@@ -1,1 +1,1 @@
-# Juego-de-exploracion Obligatorio de Algoritmos y Estructura de datos 2
+# Juego-de-exploracion - Trabajo de Obligatorio de Algoritmos y Estructura de datos 2
